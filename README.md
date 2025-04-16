@@ -1,5 +1,6 @@
 # demo-dead-gate-elimination
 A demonstration that the idea of dead gate elimination works.
+The manuscript is accessible at [Dead Gate Elimination](https://github.com/i2-tum/demo-dead-gate-elimination) (currently this is a dummy link, we will update it later).
 Since this is just a demo, we implemented circuits and gates as simplified list-like data structures. 
 * Format of circuits: A circuit is a list of gates.
 * Format of gates:
